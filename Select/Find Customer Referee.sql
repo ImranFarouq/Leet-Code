@@ -20,7 +20,6 @@ Output:
 | Bill |
 | Zack |
 +------+
-
 '''
 
 SELECT name
